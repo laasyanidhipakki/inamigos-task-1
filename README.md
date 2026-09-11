@@ -43,7 +43,6 @@ inamigos-task-1
 │
 ├── index.html
 ├── style.css
-└── README.md
 ```
 
 ## 🔗 Official Website
